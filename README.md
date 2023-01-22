@@ -14,7 +14,7 @@ Included in this barebones starter
 
 Typescript options
 
-- ./dist
+- outDir: ./dist
 - target: es2016
 - module: commonjs
 - strict: true
